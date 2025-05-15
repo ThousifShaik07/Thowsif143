@@ -1,4 +1,8 @@
 # 💫 About Me:
+Hi 👋, I'm Thousif Shaik
+
+A passionate Python Full Stack Developer from India
+
 🔭 I’m currently working on mt personal website<br>💬 Ask me about college and personal work experience<br>⚡ Fun fact my cat name is snowbell
 
 
